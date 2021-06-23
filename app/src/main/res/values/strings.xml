@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Architect constructor</string>
+    <string name="app_name">House</string>
+
+    <string name="door_right">Дверь справа</string>
+    <string name="door_left">Дверь слева</string>
+    <string name="window_on_the_roof">Окно на крыше</string>
+    <string name="num_stages">Этажность</string>
+    <string name="tree">Дерево</string>
+    <string name="time">Время</string>
 </resources>
