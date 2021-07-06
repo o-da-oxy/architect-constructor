@@ -75,7 +75,7 @@
                 android:imeOptions="actionDone"
                 android:inputType="number"
                 android:padding="4dp"
-                android:text="200" />
+                android:text="500" />
 
             <SeekBar
                 android:id="@+id/tree_offset_slider"
